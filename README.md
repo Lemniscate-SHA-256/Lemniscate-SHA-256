@@ -1,8 +1,3 @@
-              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
-            
-
-
 “And those who were seen dancing were thought to be insane by those who could not hear the music.”
 ― Friedrich Nietzsche
 
