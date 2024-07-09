@@ -1,3 +1,9 @@
+“And those who were seen dancing were thought to be insane by those who could not hear the music.”
+― Friedrich Nietzsche
+
+“Talk is cheap. Show me the code.”
+― Linus Torvalds
+
 Maybe 25% of Each
 
 
