@@ -4,7 +4,7 @@
 “Talk is cheap. Show me the code.”
 ― Linus Torvalds
 
-CEO of ![𝚲-section](https://github.com/user-attachments/assets/afe6399f-286c-4faa-ab6a-24d00a139251)
+CEO  of  ![𝚲-section](https://github.com/user-attachments/assets/afe6399f-286c-4faa-ab6a-24d00a139251)
 
 
 
