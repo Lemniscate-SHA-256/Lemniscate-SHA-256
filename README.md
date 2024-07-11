@@ -4,7 +4,8 @@
 “Talk is cheap. Show me the code.”
 ― Linus Torvalds
 
-CEO of ![𝚲-section](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/assets/144749893/e77afaa6-81df-4e63-9de4-c9c44272ef59)
+CEO of ![𝚲-section](https://github.com/user-attachments/assets/978a5683-42da-4447-a6c2-5c39ae504689)
+
 
 
 
