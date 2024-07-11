@@ -4,10 +4,12 @@
 “Talk is cheap. Show me the code.”
 ― Linus Torvalds
 
-Maybe 25% of Each
-
 CEO of ![𝚲-section](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/assets/144749893/e77afaa6-81df-4e63-9de4-c9c44272ef59)
 
+
+
+
+Maybe 25% of Each
 
 <p align="center">
   <a href="https://skillicons.dev">
