@@ -6,10 +6,7 @@
 
 CEO  of  ![𝚲-section](https://github.com/user-attachments/assets/afe6399f-286c-4faa-ab6a-24d00a139251)
 
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=1DF729&random=false&width=435&lines=SENOUVO+jacques-Charles+Gad;The+only+cure+to+life+is+love.;Call+me+Brainiac+or+Lemniscate-SHA-256+or+itnight.exe)](https://git.io/typing-svg)
 
 Maybe 25% of Each
 
