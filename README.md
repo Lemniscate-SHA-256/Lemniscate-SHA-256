@@ -26,4 +26,4 @@ You can click the Preview link to take a look at your changes.
 
 ++++++  SKILLS ++++++
 
-- MONSTRUOUS READER 
+- MONSTRUOUS READER [BOOKS LIST](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)
