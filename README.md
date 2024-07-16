@@ -1,6 +1,6 @@
 Wu wei polymath, so I act by the sword of kaizen and through my Tao. 
 
-Finding my hakagure. Maybe College Dropout.
+Finding my hakagure. Maybe College Dropout. Self-taught.
 
 Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chameleon walks softly"
 
