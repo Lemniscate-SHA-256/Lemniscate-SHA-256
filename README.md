@@ -25,6 +25,8 @@ Maybe 25% of Each
   </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lemniscate-SHA-256&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%2B%2B%2B%2B%2B%2B++SKILLS+%2B%2B%2B%2B%2B%2B)](https://git.io/typing-svg)
 
 
@@ -47,3 +49,4 @@ Maybe 25% of Each
   
 - JAZZ NOIR MAKER
 - [Terms](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/Terms) (How I, myself describe the world)
+
