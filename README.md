@@ -27,13 +27,8 @@ Maybe 25% of Each
 
 <!-- <a href='https://ko-fi.com/Q5Q860KQ2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
-<!---
-Lemniscate-SHA-256/Lemniscate-SHA-256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%2B%2B%2B%2B%2B%2B++SKILLS+%2B%2B%2B%2B%2B%2B)](https://git.io/typing-svg)
 
-
-++++++  SKILLS ++++++
 
 - мσηѕтяυσυѕ яєα∂єя [Books List](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)
   * I'm always open to new ideas and concepts, if you want to discuss serious matters involving even anunnakis or muons, I'm here.
