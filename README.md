@@ -37,3 +37,7 @@ You can click the Preview link to take a look at your changes.
 - LIVECODER [Livecoding YouTube Channel](https://www.youtube.com/@Barakiel-l2c)
 - POET (French, Latin, English, Éwé) [Poetry Youtube Channel](https://www.youtube.com/@Jacques-Charles)
 - BEATMAKING [Plug](https://www.youtube.com/@Plug-G-Up)
+- POWERLIFITER
+- MARATHONER
+- AESTHETIC NATURAL BODYBUILDING
+- JAZZ NOIR MAKER
