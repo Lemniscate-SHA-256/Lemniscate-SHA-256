@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 - мσηѕтяυσυѕ яєα∂єя [Books List](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)
   * I'm always open to new ideas and concepts, if you want to discuss serious matters involving even anunnakis or muons, I'm here.
 - ɭเשєς๏๔єг [Livecoding YouTube Channel](https://www.youtube.com/@Barakiel-l2c)
-- 𝙿𝙾𝙴𝚃 (French, Latin, English, Éwé) [Poetry Youtube Channel](https://www.youtube.com/@Jacques-Charles)
+- 𝙿𝙾𝙴𝚃 (French, Latin, English, Éwé) [Poetry Youtube Channel](https://www.youtube.com/@Jacques-Charles) [Wattpad Profile] (https://www.wattpad.com/user/AmbientLemniscate)
 - BEATMAKING [Plug](https://www.youtube.com/@Plug-G-Up)
 - POWERLIFITER
 - MARATHONER
