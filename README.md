@@ -32,12 +32,12 @@ You can click the Preview link to take a look at your changes.
 
 ++++++  SKILLS ++++++
 
-- MONSTRUOUS READER [Books List](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)
+- мσηѕтяυσυѕ яєα∂єя [Books List](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)
   * I'm always open to new ideas and concepts, if you want to discuss serious matters involving even anunnakis or muons, I'm here.
-- LIVECODER [Livecoding YouTube Channel](https://www.youtube.com/@Barakiel-l2c)
-- POET (French, Latin, English, Éwé) [Poetry Youtube Channel](https://www.youtube.com/@Jacques-Charles)
+- ɭเשєς๏๔єг [Livecoding YouTube Channel](https://www.youtube.com/@Barakiel-l2c)
+- 𝙿𝙾𝙴𝚃 (French, Latin, English, Éwé) [Poetry Youtube Channel](https://www.youtube.com/@Jacques-Charles)
 - BEATMAKING [Plug](https://www.youtube.com/@Plug-G-Up)
 - POWERLIFITER
 - MARATHONER
-- AESTHETIC NATURAL BODYBUILDING
+- 𝐀𝐄𝐒𝐓𝐇𝐄𝐓𝐈𝐂 𝐍𝐀𝐓𝐔𝐑𝐀𝐋 𝐁𝐎𝐃𝐘𝐁𝐔𝐈𝐋𝐃𝐈𝐍𝐆
 - JAZZ NOIR MAKER
