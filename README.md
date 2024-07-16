@@ -33,3 +33,5 @@ You can click the Preview link to take a look at your changes.
 - MONSTRUOUS READER [Books List](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)
   * I'm always open to new ideas and concepts, if you want to discuss serious matters involving even anunnakis or muons, I'm here.
 - LIVECODER [Livecoding YouTube Channel](https://www.youtube.com/@Barakiel-l2c)
+- POET (French, Latin, English, Éwé) [Poetry Youtube Channel](https://www.youtube.com/@Jacques-Charles)
+- BEATMAKING
