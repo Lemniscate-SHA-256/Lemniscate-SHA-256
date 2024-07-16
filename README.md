@@ -1,5 +1,6 @@
-Wu wei polymath, so I act by the sword of kaizen and my Tao. Finding my hakagure. 
-Anyigba sesẽ gake akpakpa zɔna blewu (Éwé) ~ "The earth is hard but the chameleon walks softly"
+Wu wei polymath, so I act by the sword of kaizen and through my Tao. 
+Finding my hakagure. 
+Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chameleon walks softly"
 
 “And those who were seen dancing were thought to be insane by those who could not hear the music.”
 ― Friedrich Nietzsche
