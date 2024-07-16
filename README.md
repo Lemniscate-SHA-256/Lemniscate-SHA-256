@@ -39,9 +39,11 @@ You can click the Preview link to take a look at your changes.
 - 𝙿𝙾𝙴𝚃 (French, Latin, English, Éwé)
   * [Poetry Youtube Channel](https://www.youtube.com/@Jacques-Charles)
   * [Wattpad Profile](https://www.wattpad.com/user/AmbientLemniscate)
+  * Creating Interpoem
 
 - BEATMAKING [Plug](https://www.youtube.com/@Plug-G-Up)
 - POWERLIFITER
 - MARATHONER
 - 𝐀𝐄𝐒𝐓𝐇𝐄𝐓𝐈𝐂 𝐍𝐀𝐓𝐔𝐑𝐀𝐋 𝐁𝐎𝐃𝐘𝐁𝐔𝐈𝐋𝐃𝐈𝐍𝐆
+  
 - JAZZ NOIR MAKER
