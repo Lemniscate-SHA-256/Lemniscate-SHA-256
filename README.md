@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 - 𝙿𝙾𝙴𝚃 (French, Latin, English, Éwé)
   * [Poetry Youtube Channel](https://www.youtube.com/@Jacques-Charles)
   * [Wattpad Profile](https://www.wattpad.com/user/AmbientLemniscate)
-  * Creating Interpoem
+  * Creating Interpoem © (Interpoem offers poets a robust platform for crafting interactive, multimedia-rich poetry experiences. With features like variables, conditional logic, and timed events, poets can create dynamic and immersive poetic narratives. The supporting frameworks ensure that development and deployment are efficient and accessible.)
 
 - BEATMAKING [Plug](https://www.youtube.com/@Plug-G-Up)
 - POWERLIFITER
