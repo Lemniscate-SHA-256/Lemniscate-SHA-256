@@ -45,6 +45,9 @@ You can click the Preview link to take a look at your changes.
 - POWERLIFITER
 - MARATHONER
 - 𝐀𝐄𝐒𝐓𝐇𝐄𝐓𝐈𝐂 𝐍𝐀𝐓𝐔𝐑𝐀𝐋 𝐁𝐎𝐃𝐘𝐁𝐔𝐈𝐋𝐃𝐈𝐍𝐆
+
+- M@th Enthusiast
+  * [Minkowski's Diagram Visualizer](https://github.com/Lemniscate-SHA-256/AEther)
   
 - JAZZ NOIR MAKER
 - [Terms](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/Terms) (How I, myself describe the world)
