@@ -1,19 +1,11 @@
-
-![eaebf8af-0b85-4944-865f-554b0c515216](https://github.com/user-attachments/assets/088b8f14-5a7e-4490-85fd-be7da6293ead)
+![_ (62)](https://github.com/user-attachments/assets/3e5aee96-b21a-43c5-9b8a-8f478d65ac44)
 
 Wu wei polymath, so I act by the sword of kaizen and through my Tao. 
-
 Finding my hakagure. Maybe college dropout. Something about studying telecoms engineering. Self-taught.
-
 Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chameleon walks softly"
 
-“And those who were seen dancing were thought to be insane by those who could not hear the music.”
-― Friedrich Nietzsche
 
-“Talk is cheap. Show me the code.”
-― Linus Torvalds
-
-![𝚲-section](https://github.com/user-attachments/assets/afe6399f-286c-4faa-ab6a-24d00a139251)  
+CEO of ![𝚲-section](https://github.com/user-attachments/assets/afe6399f-286c-4faa-ab6a-24d00a139251)  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Jacques-Charles+Gad.;Brainiac.;Lemniscate-SHA-256.;Itsnight.exe.;The+only+cure+for+life+is+duty.)](https://git.io/typing-svg)
 
