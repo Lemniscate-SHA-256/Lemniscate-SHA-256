@@ -1,4 +1,4 @@
-![_ (62)](https://github.com/user-attachments/assets/3e5aee96-b21a-43c5-9b8a-8f478d65ac44)
+  ![_ (62)](https://github.com/user-attachments/assets/3e5aee96-b21a-43c5-9b8a-8f478d65ac44)
 
 Wu wei polymath, so I act by the sword of kaizen and through my Tao. 
 Finding my hakagure. Maybe college dropout. Something about studying telecoms engineering. Self-taught.
