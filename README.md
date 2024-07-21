@@ -9,7 +9,7 @@ CEO of ![𝚲-section](https://github.com/user-attachments/assets/afe6399f-286c-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Jacques-Charles+Gad.;Brainiac.;Lemniscate-SHA-256.;Itsnight.exe.;The+only+cure+for+life+is+duty.)](https://git.io/typing-svg)
 
-Maybe 25% of Each
+Maybe 5% of Each
 
 <p align="center">
   <a href="https://skillicons.dev">
