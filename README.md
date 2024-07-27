@@ -43,15 +43,14 @@ Maybe college dropout. Something about studying telecoms engineering.
 
 ![Black Messiah , GHALAVANQCHE](https://github.com/user-attachments/assets/90f49aa9-f76c-4da9-ab53-6c05f78751e3)
 
-- **мσηѕтяυσυѕ яєα∂єя** [Books List](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)
-  * I'm always open to new ideas and concepts, if you want to discuss serious matters involving even anunnakis or muons, I'm here.
+- **мσηѕтяυσυѕ яєα∂єя** [Books List](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)(I'm always open to new ideas and concepts, if you want to discuss serious matters involving even anunnakis or muons)
 
 - **ɭเשєς๏๔єг** [Livecoding YouTube Channel](https://www.youtube.com/@Barakiel-l2c)
   
 - **𝙿𝙾𝙴𝚃** (French, Latin, English, Éwé, japanese)
   * [Poetry Youtube Channel](https://www.youtube.com/@Jacques-Charles)
   * [Wattpad Profile](https://www.wattpad.com/user/AmbientLemniscate)
-  * Creating Interpoem © (Interpoem offers poets a robust platform for crafting interactive, multimedia-rich poetry experiences. With features like variables, conditional logic, and timed events, poets can create dynamic and immersive poetic narratives. The supporting frameworks ensure that development and deployment are efficient and accessible.)
+  * Creating Interpoem(Interpoem offers poets a robust platform for crafting interactive, multimedia-rich poetry experiences. With features like variables, conditional logic, and timed events, poets can create dynamic and immersive poetic narratives. The supporting frameworks ensure that development and deployment are efficient and accessible.)
 
 - **BEATMAKING** [Plug](https://www.youtube.com/@Plug-G-Up)
   
