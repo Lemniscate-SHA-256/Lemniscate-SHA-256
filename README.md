@@ -1,7 +1,7 @@
   ![_ (62)](https://github.com/user-attachments/assets/3e5aee96-b21a-43c5-9b8a-8f478d65ac44)
 
 
-# → I
+# → 🌀I
 
 🥋Wu wei | ♚Kaizen | 🪼Tao  | ☕️Hakagure | ☄️Sunyata 
 
