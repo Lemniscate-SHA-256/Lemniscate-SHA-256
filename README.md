@@ -34,7 +34,7 @@ Maybe 5% of Each
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lemniscate-SHA-256&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%2B%2B%2B%2B%2B%2B++SKILLS+%2B%2B%2B%2B%2B%2B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=OTHER)](https://git.io/typing-svg)
 
 
 - мσηѕтяυσυѕ яєα∂єя [Books List](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)
