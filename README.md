@@ -28,7 +28,7 @@
 
 
 
-## Maybe 6% of Each
+## Maybe 10% of Each
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=SUPERPOWERS)](https://git.io/typing-svg)
 
