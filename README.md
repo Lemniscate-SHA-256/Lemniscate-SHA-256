@@ -1,9 +1,6 @@
   ![_ (62)](https://github.com/user-attachments/assets/3e5aee96-b21a-43c5-9b8a-8f478d65ac44)
 
-- 🥋Wu wei
-- ♚kaizen
-- 🪼Tao
-- 🐦‍🔥hakagure. 
+🥋Wu wei | ♚kaizen | 🪼Tao  | ☕️hakagure | ☄️Sunyata 
 
 Maybe college dropout. Something about studying telecoms engineering. 
 
