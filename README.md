@@ -3,7 +3,7 @@
 
 # → I
 
-🥋Wu wei | ♚kaizen | 🪼Tao  | ☕️hakagure | ☄️Sunyata 
+🥋Wu wei | ♚Kaizen | 🪼Tao  | ☕️Hakagure | ☄️Sunyata 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Brainiac.;Lemniscate-SHA-256.;Itsnight.exe.)](https://git.io/typing-svg)
 
