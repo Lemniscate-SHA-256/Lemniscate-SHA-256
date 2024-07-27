@@ -43,7 +43,6 @@ Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chame
 
 ![Black Messiah , GHALAVANQCHE](https://github.com/user-attachments/assets/90f49aa9-f76c-4da9-ab53-6c05f78751e3)
 
-
 - **мσηѕтяυσυѕ яєα∂єя** [Books List](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)
   * I'm always open to new ideas and concepts, if you want to discuss serious matters involving even anunnakis or muons, I'm here.
 
@@ -56,12 +55,10 @@ Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chame
 
 - **BEATMAKING** [Plug](https://www.youtube.com/@Plug-G-Up)
   
-- **POWERLIFITER** - **𝐀𝐄𝐒𝐓𝐇𝐄𝐓𝐈𝐂 𝐍𝐀𝐓𝐔𝐑𝐀𝐋 𝐁𝐎𝐃𝐘𝐁𝐔𝐈𝐋𝐃𝐈𝐍𝐆**
-  
-- **MARATHONER**
+- **POWERLIFITER** - **𝐀𝐄𝐒𝐓𝐇𝐄𝐓𝐈𝐂 𝐍𝐀𝐓𝐔𝐑𝐀𝐋 𝐁𝐎𝐃𝐘𝐁𝐔𝐈𝐋𝐃𝐈𝐍𝐆** - **MARATHONER**
 
 - **M@th €nthusiast**
-  * [Minkowski's Space-Time Visualizer](https://github.com/Lemniscate-SHA-256/AEther)
+  * [Minkowski's Space-Time Visualizer](https://github.com/Lemniscate-SHA-256/AEther)(Minkowski's Space-Time Visualizer)
   * [Learning Only Interesting Maths](https://github.com/Lemniscate-SHA-256/Learning-Very-Interesting-Maths-Only)(Dedicated to exploring and understanding fascinating mathematical concepts beyond the basics. Formulating new theories. Whether you're a maths enthusiast or someone who wants to deepen your knowledge of fascinating areas of mathematics, this repository aims to provide resources and insights into the most exciting topics in the field.)
   
 - **JAZZ NOIR MAKER DEALER**
