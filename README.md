@@ -18,7 +18,7 @@ Maybe college dropout. Something about studying telecoms engineering.
 
 ![𝚲-section](https://github.com/user-attachments/assets/afe6399f-286c-4faa-ab6a-24d00a139251)  
 
-# Stats
+# 📑Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)  [![Lemniscate-SHA-256 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lemniscate_SHA_256)](https://github.com/anuraghazra/github-readme-stats) [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f.svg)](https://wakatime.com/@5aed2962-7451-49d2-9cc7-e162f14d009f)
 
