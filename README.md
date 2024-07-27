@@ -1,10 +1,13 @@
   ![_ (62)](https://github.com/user-attachments/assets/3e5aee96-b21a-43c5-9b8a-8f478d65ac44)
 
-Wu wei, kaizen, Tao, hakagure. 
+- 🥋Wu wei
+- ♚kaizen
+- 🪼Tao
+- 🐦‍🔥hakagure. 
 
 Maybe college dropout. Something about studying telecoms engineering. 
 
-Self-taught.
+🛩Self-taught.
 
 Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chameleon walks softly"
 
