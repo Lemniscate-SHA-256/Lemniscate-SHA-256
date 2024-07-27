@@ -13,6 +13,8 @@
 
 🏺Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chameleon walks softly"🏺
 
+![](https://komarev.com/ghpvc/?username=Lemniscate-SHA-256&style=flat-square)
+
 
 # 🧪Companies
 
