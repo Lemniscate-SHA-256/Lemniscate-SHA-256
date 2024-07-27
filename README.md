@@ -38,7 +38,7 @@
 
 # 📜Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lemniscate-SHA-256&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lemniscate-SHA-256&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # 🧮Dive Deeper In My Mind
