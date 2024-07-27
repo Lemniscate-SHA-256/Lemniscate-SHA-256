@@ -62,7 +62,7 @@ Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chame
 
 - **M@th €nthusiast**
   * [Minkowski's Space-Time Visualizer](https://github.com/Lemniscate-SHA-256/AEther)
-  * [Learning Only Interesting Maths](https://github.com/Lemniscate-SHA-256/Learning-Very-Interesting-Maths-Only)
+  * [Learning Only Interesting Maths](https://github.com/Lemniscate-SHA-256/Learning-Very-Interesting-Maths-Only)(Dedicated to exploring and understanding fascinating mathematical concepts beyond the basics. Formulating new theories. Whether you're a maths enthusiast or someone who wants to deepen your knowledge of fascinating areas of mathematics, this repository aims to provide resources and insights into the most exciting topics in the field.)
   
 - **JAZZ NOIR MAKER DEALER**
 
