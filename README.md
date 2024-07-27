@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Brainiac.;Lemniscate-SHA-256.;Itsnight.exe.)](https://git.io/typing-svg)
 
-Maybe college dropout. Something about studying telecoms engineering. 
+~ Maybe college dropout ~ Something about studying telecoms engineering. 
 
 🛩Self-taught.
 
