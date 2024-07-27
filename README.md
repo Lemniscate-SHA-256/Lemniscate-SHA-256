@@ -1,13 +1,12 @@
   ![_ (62)](https://github.com/user-attachments/assets/3e5aee96-b21a-43c5-9b8a-8f478d65ac44)
 
-Wu wei, kaizen, Tao. 
+Wu wei, kaizen, Tao, hakagure. 
 
-Finding my hakagure. Maybe college dropout. Something about studying telecoms engineering. 
+Maybe college dropout. Something about studying telecoms engineering. 
 
 Self-taught.
 
 Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chameleon walks softly"
-
 
 
 
@@ -21,7 +20,7 @@ Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chame
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)     [![Lemniscate-SHA-256 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lemniscate_SHA_256)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Maybe 5% of Each
+Maybe 6% of Each
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,14 +40,18 @@ Maybe 5% of Each
   * I'm always open to new ideas and concepts, if you want to discuss serious matters involving even anunnakis or muons, I'm here.
 
 - ɭเשєς๏๔єг [Livecoding YouTube Channel](https://www.youtube.com/@Barakiel-l2c)
+  
 - 𝙿𝙾𝙴𝚃 (French, Latin, English, Éwé)
   * [Poetry Youtube Channel](https://www.youtube.com/@Jacques-Charles)
   * [Wattpad Profile](https://www.wattpad.com/user/AmbientLemniscate)
   * Creating Interpoem © (Interpoem offers poets a robust platform for crafting interactive, multimedia-rich poetry experiences. With features like variables, conditional logic, and timed events, poets can create dynamic and immersive poetic narratives. The supporting frameworks ensure that development and deployment are efficient and accessible.)
 
 - BEATMAKING [Plug](https://www.youtube.com/@Plug-G-Up)
+  
 - POWERLIFITER
+  
 - MARATHONER
+  
 - 𝐀𝐄𝐒𝐓𝐇𝐄𝐓𝐈𝐂 𝐍𝐀𝐓𝐔𝐑𝐀𝐋 𝐁𝐎𝐃𝐘𝐁𝐔𝐈𝐋𝐃𝐈𝐍𝐆
 
 - M@th Enthusiast
@@ -56,5 +59,7 @@ Maybe 5% of Each
   * [Learning Only Interesting Maths](https://github.com/Lemniscate-SHA-256/Learning-Very-Interesting-Maths-Only)
   
 - JAZZ NOIR MAKER
+
+  
 - [Terms](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/Terms) (How I, myself describe the world)
 
