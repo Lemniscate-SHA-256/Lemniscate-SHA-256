@@ -39,6 +39,8 @@ Maybe college dropout. Something about studying telecoms engineering.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lemniscate-SHA-256&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
+
 # Dive Deeper In My Mind
 
 ![Black Messiah , GHALAVANQCHE](https://github.com/user-attachments/assets/90f49aa9-f76c-4da9-ab53-6c05f78751e3)
