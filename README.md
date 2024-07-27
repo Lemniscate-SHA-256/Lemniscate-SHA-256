@@ -19,7 +19,7 @@ Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chame
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)  [![Lemniscate-SHA-256 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lemniscate_SHA_256)](https://github.com/anuraghazra/github-readme-stats) [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f.svg)](https://wakatime.com/@5aed2962-7451-49d2-9cc7-e162f14d009f)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=LANGUAGESANDTOOLS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=LANGUAGES\AND\TOOLS)](https://git.io/typing-svg)
 
 Maybe 6% of Each
 
