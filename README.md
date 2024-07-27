@@ -41,6 +41,9 @@ Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chame
 
 # Dive Deeper In My Mind
 
+![Black Messiah , GHALAVANQCHE](https://github.com/user-attachments/assets/90f49aa9-f76c-4da9-ab53-6c05f78751e3)
+
+
 - **мσηѕтяυσυѕ яєα∂єя** [Books List](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)
   * I'm always open to new ideas and concepts, if you want to discuss serious matters involving even anunnakis or muons, I'm here.
 
