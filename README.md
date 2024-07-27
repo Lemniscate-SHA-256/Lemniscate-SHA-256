@@ -47,7 +47,7 @@
 
 - **ɭเשєς๏๔єг** [Livecoding YouTube Channel](https://www.youtube.com/@Barakiel-l2c)
   
-- **𝙿𝙾𝙴𝚃** (French, Latin, English, Éwé, japanese)
+- **𝙿𝙾𝙴𝚃** (French, Latin, English, Éwé, Japanese)
   * [Poetry Youtube Channel](https://www.youtube.com/@Jacques-Charles)
   * [Wattpad Profile](https://www.wattpad.com/user/AmbientLemniscate)
   * Creating Interpoem(Interpoem offers poets a robust platform for crafting interactive, multimedia-rich poetry experiences. With features like variables, conditional logic, and timed events, poets can create dynamic and immersive poetic narratives. The supporting frameworks ensure that development and deployment are efficient and accessible.)
