@@ -33,7 +33,7 @@ Maybe 6% of Each
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=OTHER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=OTHERS)](https://git.io/typing-svg)
 
 
 - мσηѕтяυσυѕ яєα∂єя [Books List](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)
