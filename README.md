@@ -14,7 +14,7 @@ Maybe college dropout. Something about studying telecoms engineering.
 🏺Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chameleon walks softly"🏺
 
 
-# Companies
+# 🧪Companies
 
 ![𝚲-section](https://github.com/user-attachments/assets/afe6399f-286c-4faa-ab6a-24d00a139251)  
 
