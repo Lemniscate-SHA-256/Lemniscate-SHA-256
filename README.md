@@ -34,7 +34,7 @@ Maybe college dropout. Something about studying telecoms engineering.
   </a>
 </p>
 
-# Trophies
+# 📜Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lemniscate-SHA-256&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
