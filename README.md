@@ -1,13 +1,26 @@
   ![_ (62)](https://github.com/user-attachments/assets/3e5aee96-b21a-43c5-9b8a-8f478d65ac44)
 
-Wu wei polymath, so I act by the sword of kaizen and through my Tao. 
-Finding my hakagure. Maybe college dropout. Something about studying telecoms engineering. Self-taught.
+Wu wei, kaizen, Tao. 
+
+Finding my hakagure. Maybe college dropout. Something about studying telecoms engineering. 
+
+Self-taught.
+
 Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chameleon walks softly"
+
+
+
 
 
 CEO of ![𝚲-section](https://github.com/user-attachments/assets/afe6399f-286c-4faa-ab6a-24d00a139251)  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Jacques-Charles+Gad.;Brainiac.;Lemniscate-SHA-256.;Itsnight.exe.;The+only+cure+for+life+is+duty.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Brainiac.;Lemniscate-SHA-256.;Itsnight.exe.)](https://git.io/typing-svg)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 Maybe 5% of Each
 
@@ -17,7 +30,9 @@ Maybe 5% of Each
   </a>
 </p>
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lemniscate-SHA-256&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%2B%2B%2B%2B%2B%2B++SKILLS+%2B%2B%2B%2B%2B%2B)](https://git.io/typing-svg)
 
