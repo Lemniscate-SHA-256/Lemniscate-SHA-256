@@ -26,7 +26,7 @@ Maybe college dropout. Something about studying telecoms engineering.
 
 ## Maybe 6% of Each
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=LANGUAGES;TOOLS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=SUPERPOWERS)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,8 +37,6 @@ Maybe college dropout. Something about studying telecoms engineering.
 # Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lemniscate-SHA-256&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
 # Dive Deeper In My Mind
