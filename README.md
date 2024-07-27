@@ -11,7 +11,7 @@ Maybe college dropout. Something about studying telecoms engineering.
 
 🛩Self-taught.
 
-Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chameleon walks softly"
+🏺Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chameleon walks softly"🏺
 
 
 # Companies
