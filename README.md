@@ -21,7 +21,7 @@ Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chame
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=LANGUAGES\AND\TOOLS)](https://git.io/typing-svg)
 
-Maybe 6% of Each
+## Maybe 6% of Each
 
 <p align="center">
   <a href="https://skillicons.dev">
