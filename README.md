@@ -53,6 +53,7 @@ Maybe 5% of Each
 
 - M@th Enthusiast
   * [Minkowski's Space-Time Visualizer](https://github.com/Lemniscate-SHA-256/AEther)
+  * [Learning Only Interesting Maths](https://github.com/Lemniscate-SHA-256/Learning-Very-Interesting-Maths-Only)
   
 - JAZZ NOIR MAKER
 - [Terms](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/Terms) (How I, myself describe the world)
