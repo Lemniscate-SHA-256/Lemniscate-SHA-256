@@ -12,7 +12,7 @@ Anyigba sesẽ gake agama zɔna blewu (Éwé) ~ "The earth is hard but the chame
 
 
 
-CEO of ![𝚲-section](https://github.com/user-attachments/assets/afe6399f-286c-4faa-ab6a-24d00a139251)  
+![𝚲-section](https://github.com/user-attachments/assets/afe6399f-286c-4faa-ab6a-24d00a139251)  
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Brainiac.;Lemniscate-SHA-256.;Itsnight.exe.)](https://git.io/typing-svg)
