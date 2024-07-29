@@ -1,6 +1,6 @@
   ![_ (62)](https://github.com/user-attachments/assets/3e5aee96-b21a-43c5-9b8a-8f478d65ac44)
 
-# → 🌀I
+# → I
 
 Wu wei Polymath so I act by the sword of Kaizen. Finding my Tao, disciple of Hakagure, on the way to ☄Sunyata.
 
@@ -13,10 +13,10 @@ Wu wei Polymath so I act by the sword of Kaizen. Finding my Tao, disciple of Hak
 ![](https://komarev.com/ghpvc/?username=Lemniscate-SHA-256&style=flat-square)
 
 
-# 🧪Companies
+# Companies
 ![𝚲-section](https://github.com/user-attachments/assets/afe6399f-286c-4faa-ab6a-24d00a139251)  
 
-# 📑Stats
+# Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)  
 [![Lemniscate-SHA-256 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lemniscate_SHA_256&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -29,9 +29,7 @@ Wu wei Polymath so I act by the sword of Kaizen. Finding my Tao, disciple of Hak
   </a>
 </p>
 
-# 📜Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lemniscate-SHA-256&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-# 🧮Dive deeper into my mind
+# Deeper
 ![lee jehoon updates on Twitter](https://github.com/user-attachments/assets/ac62dded-9cb0-4f69-bf6d-37be3f95f1ef)
 - **мσηѕтяυσυѕ яєα∂єя** [Books List](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)(I'm always open to new ideas and concepts, if you want to discuss serious matters involving even anunnakis or muons)
 - [Interpoem](https://github.com/Lemniscate-SHA-256/Interpoem)(Interpoem offers poets a robust platform for crafting interactive, multimedia-rich poetry experiences. With features like variables, conditional logic, and timed events, poets can create dynamic and immersive poetic narratives. The supporting frameworks ensure that development and deployment are efficient and accessible.)
