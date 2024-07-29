@@ -14,9 +14,12 @@ Wu wei Polymath so I act by the sword of Kaizen. Finding my Tao, disciple of Hak
 
 
 # Companies
+
 ![𝚲-section](https://github.com/user-attachments/assets/afe6399f-286c-4faa-ab6a-24d00a139251)  
 
 # Stats
+![National Aquarium’s dolphin sanctuary plan Wave of the future or well-intentioned folly ](https://github.com/user-attachments/assets/7164b51f-fd0e-4fe1-b8f4-ded77c05bc47)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)  
 [![Lemniscate-SHA-256 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lemniscate_SHA_256&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
