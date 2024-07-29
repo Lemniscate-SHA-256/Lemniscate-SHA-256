@@ -22,7 +22,7 @@ Wu wei Polymath so I act by the sword of Kaizen. Finding my Tao, disciple of Hak
 
 [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f.svg)](https://wakatime.com/@5aed2962-7451-49d2-9cc7-e162f14d009f)
 
-## 11% of Each
+## 25% of Each
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,react,next,nodejs,git,github,stackoverflow,ansible,arduino,bash,blender,c,cs,cpp,clojure,cmake,css,debian,docker,figma,gmail,graphql,gtk,haskell,heroku,kali,kotlin,kubernetes,linux,lua,md,matlab,mysql,nextjs,netlify,nginx,nix,npm,obsidian,octave,perl,ps,ai,powershell,py,pytorch,qt,r,rails,ruby,regex,replit,rust,sqlite,sublime,solidity,svg,symfony,tensorflow,twitter,ubuntu,unity,vercel,vim,vscode,vue,vscodium,wasm,windows,sklearn,redux,prisma,graphql,exlixir" />
