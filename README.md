@@ -6,13 +6,7 @@ I write wine, compose rhymes, paint songs, code time, reflect about hyperspheres
 ![](https://komarev.com/ghpvc/?username=Lemniscate-SHA-256&style=flat-square)
  
 
-# Stats
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)  
-[![Lemniscate-SHA-256 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lemniscate_SHA_256&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f.svg)](https://wakatime.com/@5aed2962-7451-49d2-9cc7-e162f14d009f)
-
 ## Each
 <p align="center">
   <a href="https://skillicons.dev">
