@@ -1,5 +1,3 @@
-  ![_ (62)](https://github.com/user-attachments/assets/3e5aee96-b21a-43c5-9b8a-8f478d65ac44)
-
 Polymath. OCD. Synesthesia.
 I write wine, compose rhymes, paint songs, code time, reflect about hyperspheres, beyond duality.
 
