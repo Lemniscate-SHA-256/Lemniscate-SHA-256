@@ -1,7 +1,7 @@
   ![_ (62)](https://github.com/user-attachments/assets/3e5aee96-b21a-43c5-9b8a-8f478d65ac44)
 
 Polymath. OCD. Synesthesia.
-I write wine, compose rhymes, paint songs, code time
+I write wine, compose rhymes, paint songs, code time, reflect about hyperspheres, beyond duality.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Brainiac.;Lemniscate-SHA-256.;Itsnight.exe.)](https://git.io/typing-svg)
 
