@@ -23,7 +23,6 @@ I write wine, compose rhymes, paint songs, code time
 </p>
 
 # Deeper
-![lee jehoon updates on Twitter](https://github.com/user-attachments/assets/ac62dded-9cb0-4f69-bf6d-37be3f95f1ef)
 - **мσηѕтяυσυѕ яєα∂єя** [Books List](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/BOOKS)(I'm always open to new ideas and concepts, if you want to discuss serious matters involving even anunnakis or muons)
 - [Interpoem](https://github.com/Lemniscate-SHA-256/Interpoem)(Interpoem offers poets a robust platform for crafting interactive, multimedia-rich poetry experiences. With features like variables, conditional logic, and timed events, poets can create dynamic and immersive poetic narratives. The supporting frameworks ensure that development and deployment are efficient and accessible.)
 - [Minkowski's Space-Time Visualizer](https://github.com/Lemniscate-SHA-256/AEther)(Minkowski's Space-Time Visualizer)
