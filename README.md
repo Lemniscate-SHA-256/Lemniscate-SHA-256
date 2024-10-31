@@ -1,8 +1,7 @@
 ![adi-goldstein-EUsVwEOsblE-unsplash](https://github.com/user-attachments/assets/a3b14355-1ddf-48cc-a478-dc905a7f9723)
 
 
-Polymath. OCD. Synesthesia.
-I write wine, compose rhymes, paint songs, code time, reflect about hyperspheres, beyond duality.
+Polymath.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Brainiac.;Lemniscate-SHA-256.;Itsnight.exe.)](https://git.io/typing-svg)
 
