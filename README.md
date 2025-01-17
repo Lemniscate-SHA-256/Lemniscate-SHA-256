@@ -3,13 +3,16 @@ Artificial intelligence - quantum computing - biomimicry - neuro-inspired system
 
 
 Founder : Lambda-section 
+
 ![Uploading Lambda-section Logo.png…]()
 
 
 ![Geometrical model of a graviton](https://github.com/user-attachments/assets/8d7d5f43-444a-43e2-9fce-30328ae80f41)
 
 
-Experience of Wisdom and deep tree of knowledge is my drug. Flow is my optimum and natural state. Living in physical reality and doing social "chores" is my statement of skin in the game.
+Experience of Wisdom and deep tree of knowledge is my drug. 
+Flow is my optimum and natural state. 
+Living in physical reality and doing social "chores" is my statement of skin in the game.
 
 Join me, if you want to go down the rabbit hole.
 Take no pills, pass conventional and unconvential paths, create your path.
