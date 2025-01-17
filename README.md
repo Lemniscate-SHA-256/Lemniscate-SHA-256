@@ -7,6 +7,8 @@ I am a self-thaught researcher, theorist, developer, creator, and thinker who th
 
 ![Lambda-section Logo](https://github.com/user-attachments/assets/bd491a79-0fce-409d-93d3-2dcf5ccf663b)
 
+# Now
+
 Experience of **Wisdom** and **Deep trees of interrelated knowledges** are my drugs. π
 
 **Flow** is my optimum and natural state. 
@@ -21,7 +23,7 @@ I'm always changing, my brain is a **multiplexer**.
 
 True Name → Gad 
 
-Codenames → Lemniscate-SHA-256, Brainiac, N_Polymath
+Codenames → Lemniscate-SHA-256, Brainiac, N_Polymath, Fuzzy-Human-Set
 
 Guide to Understanding Lemniscate-SHA-256 → Link "Bientôt disponible"
  
