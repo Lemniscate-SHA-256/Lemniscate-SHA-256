@@ -43,6 +43,6 @@ Guide to Understanding Lemniscate-SHA-256 → Link "Bientôt disponible"
 
 - **MMLT**
 
-More coming soon ...
 
-©
+
+© Lambda-section, Always More coming soon ...
