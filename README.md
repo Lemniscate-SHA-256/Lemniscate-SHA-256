@@ -3,7 +3,7 @@ I am a self-thaught researcher, theorist, developer, creator, and thinker who th
 **Artificial intelligence - quantum computing - biomimicry - neuro-inspired systems - maths - physics - Probability - Robotics - Machine Learning - Philosophy - Linguistics.**
 
 
-#Founder → **Lambda-section**
+# Founder → **Lambda-section**
 
 ![Lambda-section Logo](https://github.com/user-attachments/assets/bd491a79-0fce-409d-93d3-2dcf5ccf663b)
 
@@ -19,9 +19,9 @@ Take no pills, pass conventional and unconvential paths, create your path.
 
 I'm always changing, my brain is a **multiplexer**.
 
-True Name → #Gad 
+True Name → Gad 
 
-Codenames → #Lemniscate-SHA-256, Brainiac, N_Polymath
+Codenames → Lemniscate-SHA-256, Brainiac, N_Polymath
 
 Guide to Understanding Lemniscate-SHA-256 → Link "Bientôt disponible"
  
