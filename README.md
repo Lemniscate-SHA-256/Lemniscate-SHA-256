@@ -27,5 +27,16 @@ Codenames → Lemniscate-SHA-256, Brainiac, N_Polymath, Fuzzy-Human-Set
 
 Guide to Understanding Lemniscate-SHA-256 → Link "Bientôt disponible"
 
-# Projects
- 
+# Lambda-Projects
+
+- Mori: A biomimetic design tool for architects and designers, merging technology and nature.
+- Metatron: An advanced debugging tool to revolutionize code analysis across multiple languages, starting with Python.
+- Glass: The holographic computer project, shaping the future of human-computer interaction.
+- Schedulize: An AI-powered calendar app designed to help users translate their goals into structured actions.
+- Clark: A minimalist book logger app with AI insights to enhance reading and action-taking, especially for those with ADHD.
+- Salt: A trading system designed for optimal decision-making and performance.
+- Console: A trading journal app that combines beauty with functionality, tailored for Linux users.
+- Dissect: An app for analyzing, structuring, and detecting algorithms used in code.
+- Reader Meets: An app that helps people connect based on books they've read, facilitating discussions and real-world library meetups.
+
+More coming soon ...
