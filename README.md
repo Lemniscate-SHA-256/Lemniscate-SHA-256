@@ -27,7 +27,7 @@ Codenames → Lemniscate-SHA-256, Brainiac, N_Polymath, Fuzzy-Human-Set
 
 Guide to Understanding Lemniscate-SHA-256 → Link "Bientôt disponible"
 
-# Lambda-Projects
+# Lambda-Projects "Talk is cheap. Show me the code." - Linus Torvalds 
 
 - **Mori** : A biomimetic design tool for architects and designers, merging technology and nature.
 - **Metatron** : An advanced debugging tool to revolutionize code analysis across multiple languages, starting with Python.
