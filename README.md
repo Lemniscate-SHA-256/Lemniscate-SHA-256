@@ -26,4 +26,6 @@ True Name → Gad
 Codenames → Lemniscate-SHA-256, Brainiac, N_Polymath, Fuzzy-Human-Set
 
 Guide to Understanding Lemniscate-SHA-256 → Link "Bientôt disponible"
+
+# Projects
  
