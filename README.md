@@ -41,7 +41,7 @@ Guide to Understanding Lemniscate-SHA-256 → Link "Bientôt disponible"
 - **Dissect** : An app for analyzing, structuring, and detecting algorithms used in code.
 - **Reader Meets** : An app that helps people connect based on books they've read, facilitating discussions and real-world library meetups.
 
-# Lamnda-Theories
+# Lambda-Theories
 
 - **MMLT**
 
