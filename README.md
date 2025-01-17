@@ -8,7 +8,9 @@ Founder → **Lambda-section**
 ![Lambda-section Logo](https://github.com/user-attachments/assets/bd491a79-0fce-409d-93d3-2dcf5ccf663b)
 
 Experience of **Wisdom** and **Deep trees of interrelated knowledges** are my drugs. π
+
 **Flow** is my optimum and natural state. 
+
 Living in physical reality and doing "social chores" are my statements of **skin in the game**.
 
 Join me, if you want to go down the rabbit hole. Φ
