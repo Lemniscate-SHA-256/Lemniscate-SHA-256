@@ -1,5 +1,6 @@
-I am a developer, creator, and thinker who thrives at the extremes of :
-Artificial intelligence - quantum computing - biomimicry - neuro-inspired systems - maths - physics - Probability - Robotics - Machine Learning - Philosophy - Linguistics.
+I am a self-thaught researcher, theorist, developer, creator, and thinker who thrives at the extremes of :
+
+**Artificial intelligence - quantum computing - biomimicry - neuro-inspired systems - maths - physics - Probability - Robotics - Machine Learning - Philosophy - Linguistics.**
 
 
 Founder : Lambda-section 
