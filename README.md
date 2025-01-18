@@ -40,6 +40,7 @@ Guide to Understanding Lemniscate-SHA-256 → Link "Bientôt disponible"
 - **Console** : A trading journal app that combines beauty with functionality, tailored for Linux users.
 - **Dissect** : An app for analyzing, structuring, and detecting algorithms used in code.
 - **Reader Meets** : An app that helps people connect based on books they've read, facilitating discussions and real-world library meetups.
+- **MWI-Qubits-Simulator**
 
 # Lambda-Theories
 
