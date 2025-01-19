@@ -2,10 +2,7 @@ I am a self-thaught researcher, theorist, developer, creator, and thinker who th
 
 **Artificial intelligence - quantum computing - biomimicry - neuro-inspired systems - maths - physics - Probability - Robotics - Machine Learning - Philosophy - Linguistics - Programming Language Design - Logic - Graph Theory - Game Theory.**
 
-
-# Founder → **Lambda-section**
-
-![Lambda-section Logo](https://github.com/user-attachments/assets/bd491a79-0fce-409d-93d3-2dcf5ccf663b)
+ Founder → **Lambda-section**
 
 # Now
 
