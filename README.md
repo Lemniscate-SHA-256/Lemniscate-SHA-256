@@ -40,9 +40,10 @@ Guide to Understanding Lemniscate-SHA-256 → Link "Bientôt disponible"
 - **MWI-Qubits-Simulator**
 - **Logos**
 
-# Lambda-Theories
+# Theories
 
 - **MMLT**
+- **Infinity Analysis**
 
 
 
