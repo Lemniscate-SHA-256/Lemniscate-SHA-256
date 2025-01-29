@@ -1,7 +1,4 @@
-I am a self-taught researcher, theorist, developer, creator, and thinker who thrives at the extremes of :
-**Artificial intelligence - quantum computing - biomimicry - neuro-inspired systems - maths - physics - Probability - Robotics - Machine Learning - Philosophy - Linguistics - Programming Language Design - Logic - Graph Theory - Game Theory - Academic Research - Psychology**
-
-**Wisdom** , **Deep trees of interrelated knowledge** , **Flow** , **skin in the game**. My brain is a **multiplexer**.
+Self-taught College Dropout. My brain is a **multiplexer**.
 
 # Projects
 
