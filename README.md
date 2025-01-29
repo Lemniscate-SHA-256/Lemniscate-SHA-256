@@ -9,6 +9,7 @@ I am a self-taught researcher, theorist, developer, creator, and thinker who thr
 - **Neural([https://github.com/Lemniscate-SHA-256/neural])** - This project introduces a new programming language designed specifically for defining neural network models.
 - **HPCS.jl([https://github.com/Lemniscate-SHA-256/HPCS.jl])** - Building a High-Performance-Computer Simulator in Julia
 - **Robust λ([https://github.com/Lemniscate-SHA-256/Robust-Lambda])**
+- **Formal Trace** - Decompilation into formal logic, real-time combinatorial visualization, and mathematical program route modeling
 
 
 
