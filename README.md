@@ -8,6 +8,7 @@ Self-taught College Dropout. My brain is a **multiplexer**.
 - **[Robust λ](https://github.com/Lemniscate-SHA-256/Robust-Lambda)** - Building a functional untyped lambda calculus interpreter with a visual reduction tracer.
 - **[Formal Trace](https://github.com/Lemniscate-SHA-256/Formal-Trace)** - Decompilation into formal logic, real-time combinatorial visualization, and mathematical program route modeling
 - **[Dissect](https://github.com/Lemniscate-SHA-256/Dissect)** - Automatically detect, analyze, and visualize algorithms in codebases
+- **BloomDB** - A probabilistic database language, that would likely involve handling uncertain or probabilistic data, making it suitable for applications like machine learning, data, integration, sensor data analysis, and more.
 
 
 
