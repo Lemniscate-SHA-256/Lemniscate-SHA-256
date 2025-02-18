@@ -7,7 +7,7 @@ Self-taught College Dropout. My brain is a **multiplexer**.
 # Advanced Skills
 ![Lark](https://img.shields.io/badge/Lark-25%25-blue)
 ![Optimization](https://img.shields.io/badge/Optimization-35%25-red)
-![Neural-Networks](https://img.shields.io/badge/Neural-Networks-75%25-blue)
+![Neural-Networks](https://img.shields.io/badge/NeuralNetworks-75%25-blue)
 
 
 # Projects
