@@ -1,5 +1,7 @@
 Self-taught College Dropout. My brain is a **multiplexer**.
 
+# Skills
+
 [![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,markdown,pytorch,javascript&perline=20)](https://skillicons.dev)
 
 # Projects
