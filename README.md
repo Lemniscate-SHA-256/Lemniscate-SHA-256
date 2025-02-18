@@ -1,6 +1,6 @@
 Self-taught College Dropout. My brain is a **multiplexer**.
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,javascript&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,latex,markdown,pytorch,javascript&perline=10)](https://skillicons.dev)
 
 # Projects
 
