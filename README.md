@@ -1,4 +1,15 @@
+<p align="center">
+  <img src=![Gi8co9TWQAAmJzv](https://github.com/user-attachments/assets/6610db76-5702-44ef-90b8-9257e5ddc7f7)>
+</p>
+
+
 Self-taught College Dropout. My brain is a **multiplexer**.
+
+
+
+# Projects
+
+- **[Neural](https://github.com/Lemniscate-SHA-256/neural)** - This project introduces a new programming language designed specifically for defining neural network models, visualizing, and Researching. [In Progress]
 
 # Skills
 
@@ -8,12 +19,6 @@ Self-taught College Dropout. My brain is a **multiplexer**.
 ![Lark](https://img.shields.io/badge/Lark-25%25-blue)
 ![Optimization](https://img.shields.io/badge/Optimization-35%25-red)
 ![Neural-Networks](https://img.shields.io/badge/NeuralNetworks-75%25-blue)
-
-
-# Projects
-
-- **[Neural](https://github.com/Lemniscate-SHA-256/neural)** - This project introduces a new programming language designed specifically for defining neural network models, visualizing, and Researching. [In Progress]
-
 
 # Aftermath
 - Metatron
