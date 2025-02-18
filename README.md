@@ -2,7 +2,7 @@
   <img src=https://github.com/user-attachments/assets/533b2a4e-1814-4ba9-af66-5c1e46de5d11>
 </p>
 
-Self-taught College Dropout. My brain is a **multiplexer**.
+Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperactivity, Polymath, Aloof, Borderline, Extreme.
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Lemniscate-SHA-256)](https://github.com/Lemniscate-SHA-256/)
 
@@ -13,7 +13,7 @@ Self-taught College Dropout. My brain is a **multiplexer**.
 </p>
 
 
-- **[Neural](https://github.com/Lemniscate-SHA-256/neural)** - This project introduces a new programming language designed specifically for defining neural network models, visualizing, and Researching. [In Progress]
+- **[Neural](https://github.com/Lemniscate-SHA-256/neural)** -> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and Researching. [In Progress]
 
 
 # Skills
