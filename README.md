@@ -2,7 +2,7 @@ Self-taught College Dropout. My brain is a **multiplexer**.
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,markdown,pytorch,javascript&perline=25)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,markdown,pytorch,javascript&perline=30)](https://skillicons.dev)
 
 # Advanced Skills
 ![Lark](https://img.shields.io/badge/Lark-25%25-blue)
