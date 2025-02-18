@@ -1,14 +1,17 @@
 <p align="center">
-  <img src=![Gi8co9TWQAAmJzv](https://github.com/user-attachments/assets/6610db76-5702-44ef-90b8-9257e5ddc7f7)>
+  <img src=https://github.com/user-attachments/assets/533b2a4e-1814-4ba9-af66-5c1e46de5d11>
 </p>
-
 
 Self-taught College Dropout. My brain is a **multiplexer**.
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Lemniscate-SHA-256)](https://github.com/Lemniscate-SHA-256/)
 
 
-# Projects
+# Projects [FOCUS]
+<p align="center">
+  <img src=https://github.com/user-attachments/assets/b32ce6f4-ecd7-4040-a538-a78a298882dc>
+</p>
+
 
 - **[Neural](https://github.com/Lemniscate-SHA-256/neural)** - This project introduces a new programming language designed specifically for defining neural network models, visualizing, and Researching. [In Progress]
 
@@ -22,7 +25,7 @@ Self-taught College Dropout. My brain is a **multiplexer**.
 ![Optimization](https://img.shields.io/badge/Optimization-35%25-red)
 ![Neural-Networks](https://img.shields.io/badge/NeuralNetworks-75%25-blue)
 
-# Aftermath
+# Next
 - Metatron
 - **[NeuroDose](https://github.com/Lemniscate-SHA-256/NeuroDose)** - Help biohackers fine-tune stimulant use to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
 - **[HPCS.jl](https://github.com/Lemniscate-SHA-256/HPCS.jl)** - Building a High-Performance-Computer Simulator in Julia
