@@ -4,6 +4,8 @@ Self-taught College Dropout. My brain is a **multiplexer**.
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,markdown,pytorch,javascript&perline=20)](https://skillicons.dev)
 
+# Advanced Skills
+
 # Projects
 
 - **[Neural](https://github.com/Lemniscate-SHA-256/neural)** - This project introduces a new programming language designed specifically for defining neural network models, visualizing, and Researching. [In Progress]
