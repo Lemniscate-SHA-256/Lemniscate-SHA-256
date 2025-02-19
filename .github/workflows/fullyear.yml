@@ -1,8 +1,17 @@
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+name: Metrics
+on:
+  schedule: # Runs once a day
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual runs
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
