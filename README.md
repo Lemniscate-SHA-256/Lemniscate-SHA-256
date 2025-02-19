@@ -27,7 +27,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 ![Marketing](https://img.shields.io/badge/Marketing-5%25-pink)
 ![Lambda-Calculus](https://img.shields.io/badge/LambdaCalculus-4%25-violet)
 ![Set-Theory](https://img.shields.io/badge/SetTheory-1%25-red)
-![Optuna](https://img.shields.io/badge/Optuna-5%25-violet)
+![Optuna](https://img.shields.io/badge/Optuna-5%25-dark)
 
 # Next
 - Metatron
