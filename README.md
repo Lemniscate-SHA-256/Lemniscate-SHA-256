@@ -21,10 +21,12 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 [![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,markdown,pytorch,javascript&perline=30)](https://skillicons.dev)
 
 # Advanced & Precise Skills
-![Lark](https://img.shields.io/badge/Lark-25%25-blue)
+![Lark](https://img.shields.io/badge/Lark-30%25-blue)
 ![Optimization](https://img.shields.io/badge/Optimization-35%25-red)
 ![Neural-Networks](https://img.shields.io/badge/NeuralNetworks-75%25-blue)
 ![Marketing](https://img.shields.io/badge/Marketing-5%25-pink)
+![Lambda-Calculus](https://img.shields.io/badge/LambdaCalculus-2%25-violet)
+![Set-Theory](https://img.shields.io/badge/SetTheory-1%25-red)
 
 # Next
 - Metatron
