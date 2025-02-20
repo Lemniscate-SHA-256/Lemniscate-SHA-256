@@ -13,12 +13,12 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 </p>
 
 
-- **[Neural](https://github.com/Lemniscate-SHA-256/neural)** -> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and Researching. [In Progress]
+- **[Neural](https://github.com/Lemniscate-SHA-256/neural)** -> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and Researching. [In Progress]   [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8)
 
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,flask,latex,github,linux,mermaid,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,markdown,pytorch,javascript&perline=30)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,markdown,pytorch,javascript&perline=30)](https://skillicons.dev)
 
 # Advanced & Precise Skills
 ![Lark](https://img.shields.io/badge/Lark-35%25-blue)
