@@ -15,7 +15,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 
 - **[Neural](https://github.com/Lemniscate-SHA-256/neural)** -> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and Researching. [In Fast Progress]   [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8)
 
--**[Metatron](https://github.com/Lemniscate-SHA-256/Metatron)** -> is an advanced, AI-powered debugging tool designed to analyze and debug code across various programming languages, including Python, JavaScript, Java, C++, AI frameworks (TensorFlow, PyTorch), and blockchain (Solidity). This project aims to build an abductive reasoning debugger using Rust. Unlike traditional debuggers that rely on pattern matching, this system infers probable causes of bugs by logically analyzing the structure of errors. [Low to No Progress]
+- **[Metatron](https://github.com/Lemniscate-SHA-256/Metatron)** -> is an advanced, AI-powered debugging tool designed to analyze and debug code across various programming languages, including Python, JavaScript, Java, C++, AI frameworks (TensorFlow, PyTorch), and blockchain (Solidity). This project aims to build an abductive reasoning debugger using Rust. Unlike traditional debuggers that rely on pattern matching, this system infers probable causes of bugs by logically analyzing the structure of errors. [Low to No Progress]
 
 # Skills
 
