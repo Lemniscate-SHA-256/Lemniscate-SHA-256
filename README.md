@@ -13,8 +13,9 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 </p>
 
 
-- **[Neural](https://github.com/Lemniscate-SHA-256/neural)** -> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and Researching. [In Progress]   [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8)
+- **[Neural](https://github.com/Lemniscate-SHA-256/neural)** -> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and Researching. [In Fast Progress]   [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8)
 
+-**[Metatron](https://github.com/Lemniscate-SHA-256/Metatron)** -> is an advanced, AI-powered debugging tool designed to analyze and debug code across various programming languages, including Python, JavaScript, Java, C++, AI frameworks (TensorFlow, PyTorch), and blockchain (Solidity). This project aims to build an abductive reasoning debugger using Rust. Unlike traditional debuggers that rely on pattern matching, this system infers probable causes of bugs by logically analyzing the structure of errors. [Low to No Progress]
 
 # Skills
 
@@ -30,7 +31,6 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 ![Optuna](https://img.shields.io/badge/Optuna-5%25-dark)
 
 # Next
-- Metatron
 - **[NeuroDose](https://github.com/Lemniscate-SHA-256/NeuroDose)** - Help biohackers fine-tune stimulant use to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
 - **[HPCS.jl](https://github.com/Lemniscate-SHA-256/HPCS.jl)** - Building a High-Performance-Computer Simulator in Julia
 - **[Robust λ](https://github.com/Lemniscate-SHA-256/Robust-Lambda)** - Building a functional untyped lambda calculus interpreter with a visual reduction tracer.
