@@ -22,13 +22,18 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 [![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,markdown,pytorch,javascript&perline=30)](https://skillicons.dev)
 
 # Advanced & Precise Skills
-![Lark](https://img.shields.io/badge/Lark-35%25-blue)
+![Lark](https://img.shields.io/badge/Lark-39%25-blue)
 ![Optimization](https://img.shields.io/badge/Optimization-35%25-red)
 ![Neural-Networks](https://img.shields.io/badge/NeuralNetworks-75%25-blue)
 ![Marketing](https://img.shields.io/badge/Marketing-5%25-pink)
 ![Lambda-Calculus](https://img.shields.io/badge/LambdaCalculus-4%25-violet)
 ![Set-Theory](https://img.shields.io/badge/SetTheory-1%25-red)
 ![Optuna](https://img.shields.io/badge/Optuna-5%25-dark)
+![Statistics](https://img.shields.io/badge/Statistics-15%25-dark)
+![Formal-Logic](https://img.shields.io/badge/FormalLogic-1%25-dark)
+![Genetic-Algorithms](https://img.shields.io/badge/GeneticAlgorithms-1%25-dark)
+![Data-Science](https://img.shields.io/badge/DataScience-2%25-dark)
+![Graph-Theory](https://img.shields.io/badge/GraphTheory-3%25-dark)
 
 # Next
 - **[NeuroDose](https://github.com/Lemniscate-SHA-256/NeuroDose)** - Help biohackers fine-tune stimulant use to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
