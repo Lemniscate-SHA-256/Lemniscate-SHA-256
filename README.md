@@ -19,7 +19,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,markdown,pytorch,javascript&perline=30)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,markdown,debian,devto,docker,githubactions,linkedin,obsidian,pytorch,javascript&perline=30)](https://skillicons.dev)
 
 # Advanced & Precise Skills
 ![Lark](https://img.shields.io/badge/Lark-39%25-blue)
