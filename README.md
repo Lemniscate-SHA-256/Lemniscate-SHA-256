@@ -35,6 +35,9 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 ![Data-Science](https://img.shields.io/badge/DataScience-2%25-dark)
 ![Graph-Theory](https://img.shields.io/badge/GraphTheory-3%25-dark)
 
+# ASAP(Always Strive And Prosper) Skills
+Painting, Beatmaking, Poetry, Writing, Boxing, Krav Maga, Calisthenics
+
 # Next
 - **[NeuroDose](https://github.com/Lemniscate-SHA-256/NeuroDose)** - Help biohackers fine-tune stimulant use to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
 - **[HPCS.jl](https://github.com/Lemniscate-SHA-256/HPCS.jl)** - Building a High-Performance-Computer Simulator in Julia
