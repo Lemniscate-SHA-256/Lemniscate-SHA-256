@@ -35,7 +35,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 ![Data-Science](https://img.shields.io/badge/DataScience-2%25-dark)
 ![Graph-Theory](https://img.shields.io/badge/GraphTheory-3%25-dark)
 
-# ASAP(Always Strive And Prosper) Skills
+# ASAP(Always Strive And Prosper) Skills
 Painting, Beatmaking, Poetry, Writing, Boxing, Krav Maga, Calisthenics
 
 # Next
@@ -44,7 +44,11 @@ Painting, Beatmaking, Poetry, Writing, Boxing, Krav Maga, Calisthenics
 - **[Robust λ](https://github.com/Lemniscate-SHA-256/Robust-Lambda)** - Building a functional untyped lambda calculus interpreter with a visual reduction tracer.
 - **[Formal Trace](https://github.com/Lemniscate-SHA-256/Formal-Trace)** - Decompilation into formal logic, real-time combinatorial visualization, and mathematical program route modeling
 - **[Dissect](https://github.com/Lemniscate-SHA-256/Dissect)** - Automatically detect, analyze, and visualize algorithms in codebases
-- **BloomDB** - A probabilistic database language, that would likely involve handling uncertain or probabilistic data, making it suitable for applications like machine learning, data, integration, sensor data analysis, and more.
+- **BloomDB** - A probabilistic database language, that would likely handle uncertain or probabilistic data, making it suitable for applications like machine learning, data, integration, sensor data analysis, and more.
+
+# Books (Starred)
+- Set Theory and the Continuum Hypothesis (Paul J. Cohen)
+- Outliers (Malcolm Gladwell)
 
 # Achievements
 
