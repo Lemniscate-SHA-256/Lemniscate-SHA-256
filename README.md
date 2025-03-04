@@ -25,7 +25,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 ![Lark](https://img.shields.io/badge/Lark-39%25-blue)
 ![Optimization](https://img.shields.io/badge/Optimization-35%25-red)
 ![Neural-Networks](https://img.shields.io/badge/NeuralNetworks-75%25-blue)
-![Marketing](https://img.shields.io/badge/Marketing-5%25-pink)
+![Marketing](https://img.shields.io/badge/Marketing-6%25-pink)
 ![Lambda-Calculus](https://img.shields.io/badge/LambdaCalculus-4%25-violet)
 ![Set-Theory](https://img.shields.io/badge/SetTheory-1%25-red)
 ![Optuna](https://img.shields.io/badge/Optuna-5%25-dark)
@@ -49,6 +49,7 @@ Painting, Beatmaking, Poetry, Writing, Boxing, Krav Maga, Calisthenics
 # Books (Starred)
 - Set Theory and the Continuum Hypothesis (Paul J. Cohen)
 - Outliers (Malcolm Gladwell)
+- Classic Computer Science Problems In Python
 
 # Achievements
 
