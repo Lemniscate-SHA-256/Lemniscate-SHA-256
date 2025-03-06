@@ -8,7 +8,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 
 ![X_ It’s what’s happening (1)](https://github.com/user-attachments/assets/3854efa8-3ce9-4002-823e-d7533b41f3d7)
 
-![Metrics](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/edit/main/github-metrics.svg)
+![Metrics](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/github-metrics.svg)
 
 # Projects [FOCUS]
 <p align="center">
