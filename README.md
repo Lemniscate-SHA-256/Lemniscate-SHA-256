@@ -10,7 +10,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 
 ![Metrics](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/github-metrics.svg)
 
-![LeetCode]()
+![LeetCode](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/metrics.plugin.leetcode.svg)
 
 # Projects [FOCUS]
 <p align="center">
