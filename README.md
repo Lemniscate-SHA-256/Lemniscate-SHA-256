@@ -50,7 +50,8 @@ Painting, Beatmaking, Poetry, Writing, Boxing, Krav Maga, Calisthenics
 - **[Dissect](https://github.com/Lemniscate-SHA-256/Dissect)** - Automatically detect, analyze, and visualize algorithms in codebases
 - **BloomDB** - A probabilistic database language, that would likely handle uncertain or probabilistic data, making it suitable for applications like machine learning, data, integration, sensor data analysis, and more.
 
-# Books (Starred)
+# Books (Starred) 
+[Let's read on TheStoryGraph](https://app.thestorygraph.com/profile/gadkuro)
 - Set Theory and the Continuum Hypothesis (Paul J. Cohen)
 - Outliers (Malcolm Gladwell)
 - Classic Computer Science Problems In Python
@@ -61,3 +62,4 @@ Painting, Beatmaking, Poetry, Writing, Boxing, Krav Maga, Calisthenics
 
 
 Always More is coming soon ...
+1
