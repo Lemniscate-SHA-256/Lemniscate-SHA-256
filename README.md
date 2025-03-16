@@ -8,7 +8,8 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Lemniscate-SHA-256)](https://github.com/Lemniscate-SHA-256/)
 
-![X_ It’s what’s happening (1)](https://github.com/user-attachments/assets/3854efa8-3ce9-4002-823e-d7533b41f3d7)
+![dan-cristian-padure-h3kuhYUCE9A-unsplash (1)](https://github.com/user-attachments/assets/1b7ffeea-39be-41f2-a700-9fc68db18e3f)
+
 
 ![Metrics](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/github-metrics.svg)
 
