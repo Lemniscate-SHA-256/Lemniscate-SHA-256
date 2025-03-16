@@ -28,21 +28,25 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 Agda
 
 # Advanced & Precise Skills
-![Lark](https://img.shields.io/badge/Lark-39%25-blue)
+![Lark](https://img.shields.io/badge/Lark-45%25-blue)
 ![Optimization](https://img.shields.io/badge/Optimization-35%25-red)
 ![Neural-Networks](https://img.shields.io/badge/NeuralNetworks-75%25-blue)
-![Marketing](https://img.shields.io/badge/Marketing-6%25-pink)
+![Marketing](https://img.shields.io/badge/Marketing-7%25-pink)
 ![Lambda-Calculus](https://img.shields.io/badge/LambdaCalculus-4%25-violet)
 ![Set-Theory](https://img.shields.io/badge/SetTheory-1%25-red)
-![Optuna](https://img.shields.io/badge/Optuna-5%25-dark)
-![Statistics](https://img.shields.io/badge/Statistics-15%25-dark)
+![Optuna](https://img.shields.io/badge/Optuna-7%25-dark)
+![Statistics](https://img.shields.io/badge/Statistics-16%25-dark)
 ![Formal-Logic](https://img.shields.io/badge/FormalLogic-1%25-dark)
 ![Genetic-Algorithms](https://img.shields.io/badge/GeneticAlgorithms-1%25-dark)
-![Data-Science](https://img.shields.io/badge/DataScience-2%25-dark)
-![Graph-Theory](https://img.shields.io/badge/GraphTheory-3%25-dark)
+![Data-Science](https://img.shields.io/badge/DataScience-3%25-dark)
+![Graph-Theory](https://img.shields.io/badge/GraphTheory-4%25-dark)
+![Automata-Theory](https://img.shields.io/badge/AutomataTheory-1%25-dark)
 
 # ASAP(Always Strive And Prosper) Skills
 Painting, Beatmaking, Poetry, Writing, Boxing, Krav Maga, Calisthenics
+
+# Languages
+German(Middle Low), French(High), English(High), Éwé(High), Russian(Very Low)
 
 # Next
 - **[NeuroDose](https://github.com/Lemniscate-SHA-256/NeuroDose)** - Help biohackers fine-tune stimulant use to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
