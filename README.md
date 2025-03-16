@@ -24,7 +24,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 
 - **[Metatron](https://github.com/Lemniscate-SHA-256/Metatron)** -> is an advanced, AI-powered debugging tool designed to analyze and debug code across various programming languages, including Python, JavaScript, Java, C++, AI frameworks (TensorFlow, PyTorch), and blockchain (Solidity). This project aims to build an abductive reasoning debugger using Rust. Unlike traditional debuggers that rely on pattern matching, this system infers probable causes of bugs by logically analyzing the structure of errors. [Low to No Progress]
 
-# Skills & COMPUTER LANGUAGES
+# Skills & Computer Languages
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,markdown,debian,devto,docker,githubactions,linkedin,obsidian,pytorch,javascript&perline=30)](https://skillicons.dev)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -45,7 +45,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
--- Agda
+-- AGDA
 
 # Advanced & Precise Skills
 ![Lark](https://img.shields.io/badge/Lark-45%25-blue)
@@ -65,11 +65,11 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 # ASAP(Always Strive And Prosper) Skills
 Painting, Beatmaking, Poetry, Writing, Boxing, Krav Maga, Calisthenics
 
-# HUMAN LANGUAGES
+# Human Languages
 German(Middle Low), French(High), English(High), Éwé(High), Russian(Very Low)
 
 # Next
-- **[NeuroDose](https://github.com/Lemniscate-SHA-256/NeuroDose)** - Help biohackers fine-tune stimulant use to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
+- **[NeuroDose](https://github.com/Lemniscate-SHA-256/NeuroDose)** - Help biohackers fine-tune stimulant used to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
 - **[HPCS.jl](https://github.com/Lemniscate-SHA-256/HPCS.jl)** - Building a High-Performance-Computer Simulator in Julia
 - **[Robust λ](https://github.com/Lemniscate-SHA-256/Robust-Lambda)** - Building a functional untyped lambda calculus interpreter with a visual reduction tracer.
 - **[Formal Trace](https://github.com/Lemniscate-SHA-256/Formal-Trace)** - Decompilation into formal logic, real-time combinatorial visualization, and mathematical program route modeling
@@ -80,11 +80,15 @@ German(Middle Low), French(High), English(High), Éwé(High), Russian(Very Low)
 [Let's read on TheStoryGraph](https://app.thestorygraph.com/profile/gadkuro)
 - Set Theory and the Continuum Hypothesis (Paul J. Cohen)
 - Outliers (Malcolm Gladwell)
-- Classic Computer Science Problems In Python
+- (Python) Python Crash Course - Classic Computer Science Problems In Python
+- (Deep Learning) Math For Deep Learning
+- (Neural Networks) Neural Networks | A Visual Introduction for Beginners by Michael Taylor
 
 # Achievements
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D31645%26project%3D%26in=0)](https://codetime.dev)
+
+# Just A Poor Lonesome Cowboy...
 
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
