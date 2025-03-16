@@ -45,7 +45,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-Agda
+-- Agda
 
 # Advanced & Precise Skills
 ![Lark](https://img.shields.io/badge/Lark-45%25-blue)
