@@ -24,7 +24,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 
 - **[Metatron](https://github.com/Lemniscate-SHA-256/Metatron)** -> is an advanced, AI-powered debugging tool designed to analyze and debug code across various programming languages, including Python, JavaScript, Java, C++, AI frameworks (TensorFlow, PyTorch), and blockchain (Solidity). This project aims to build an abductive reasoning debugger using Rust. Unlike traditional debuggers that rely on pattern matching, this system infers probable causes of bugs by logically analyzing the structure of errors. [Low to No Progress]
 
-# Skills
+# Skills & COMPUTER LANGUAGES
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,markdown,debian,devto,docker,githubactions,linkedin,obsidian,pytorch,javascript&perline=30)](https://skillicons.dev)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -65,7 +65,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 # ASAP(Always Strive And Prosper) Skills
 Painting, Beatmaking, Poetry, Writing, Boxing, Krav Maga, Calisthenics
 
-# Languages
+# HUMAN LANGUAGES
 German(Middle Low), French(High), English(High), Éwé(High), Russian(Very Low)
 
 # Next
