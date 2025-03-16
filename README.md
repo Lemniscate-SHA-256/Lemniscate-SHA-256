@@ -63,7 +63,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 ![Automata-Theory](https://img.shields.io/badge/AutomataTheory-1%25-dark)
 
 # ASAP(Always Strive And Prosper) Skills
-Painting, Beatmaking, Poetry, Writing, Boxing, Krav Maga, Calisthenics
+[Painting](https://www.deviantart.com/jacques-charles), [Beatmaking&Music](https://soundcloud.com/kuro-io), [Poetry](https://jacquescharles.framer.website/), Writing, Boxing, Krav Maga, Calisthenics
 
 # Human Languages
 German(Middle Low), French(High), English(High), Éwé(High), Russian(Very Low)
