@@ -46,7 +46,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
--- AGDA
+-- AGDA -- ASSEMBLY X64X86
 
 # Advanced & Precise Skills
 ![Lark](https://img.shields.io/badge/Lark-45%25-blue)
@@ -73,7 +73,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 German(Middle Low), French(High), English(High), Éwé(High), Russian(Very Low)
 
 # Next
-- **[NeuroDose](https://github.com/Lemniscate-SHA-256/NeuroDose)** - Help biohackers fine-tune stimulant used to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
+- **[NeuroDose](https://github.com/Lemniscate-SHA-256/NeuroDose)** - Help biohackers fine-tune stimulants used to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
 - **[HPCS.jl](https://github.com/Lemniscate-SHA-256/HPCS.jl)** - Building a High-Performance-Computer Simulator in Julia
 - **[Robust λ](https://github.com/Lemniscate-SHA-256/Robust-Lambda)** - Building a functional untyped lambda calculus interpreter with a visual reduction tracer.
 - **[Formal Trace](https://github.com/Lemniscate-SHA-256/Formal-Trace)** - Decompilation into formal logic, real-time combinatorial visualization, and mathematical program route modeling
