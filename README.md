@@ -55,7 +55,9 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 ![Marketing](https://img.shields.io/badge/Marketing-7%25-pink)
 ![Lambda-Calculus](https://img.shields.io/badge/LambdaCalculus-4%25-violet)
 ![Set-Theory](https://img.shields.io/badge/SetTheory-1%25-red)
+![Tensor-Calculus](https://img.shields.io/badge/TensorCalculus-2%25-violet)
 ![Optuna](https://img.shields.io/badge/Optuna-7%25-dark)
+![Categort-Theory](https://img.shields.io/badge/Optuna-1%25-dark)
 ![Statistics](https://img.shields.io/badge/Statistics-16%25-dark)
 ![Formal-Logic](https://img.shields.io/badge/FormalLogic-1%25-dark)
 ![Genetic-Algorithms](https://img.shields.io/badge/GeneticAlgorithms-1%25-dark)
@@ -70,7 +72,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 
 
 # Human Languages
-German(Middle Low), French(High), English(High), Éwé(High), Russian(Very Low)
+German[Read](Middle Low), French(High), English(High), Éwé(High), Russian(Very Low), Korean[Hangeul](Low to Middle Low)
 
 # Next
 - **[NeuroDose](https://github.com/Lemniscate-SHA-256/NeuroDose)** - Help biohackers fine-tune stimulants used to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
