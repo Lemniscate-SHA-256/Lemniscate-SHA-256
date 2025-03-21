@@ -4,7 +4,6 @@
 
 Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperactivity, Polymath, Aloof, Borderline, Extreme.
 
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Lemniscate-SHA-256)](https://github.com/Lemniscate-SHA-256/)
 
