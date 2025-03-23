@@ -49,14 +49,14 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 ![Set-Theory](https://img.shields.io/badge/SetTheory-1%25-red)
 ![Tensor-Calculus](https://img.shields.io/badge/TensorCalculus-2%25-red)
 ![Optuna](https://img.shields.io/badge/Optuna-7%25-blue)
-![Categort-Theory](https://img.shields.io/badge/Optuna-1%25-red)
+![Category-Theory](https://img.shields.io/badge/CategoryTheory-1%25-red)
 ![Statistics](https://img.shields.io/badge/Statistics-16%25-red)
 ![Formal-Logic](https://img.shields.io/badge/FormalLogic-1%25-blue)
 ![Genetic-Algorithms](https://img.shields.io/badge/GeneticAlgorithms-1%25-blue)
 ![Data-Science](https://img.shields.io/badge/DataScience-3%25-blue)
 ![Graph-Theory](https://img.shields.io/badge/GraphTheory-4%25-red)
 ![Automata-Theory](https://img.shields.io/badge/AutomataTheory-1%25-blue)
-![System-Design](https://img.shields.io/badge/GraphTheory-4%25-pink)
+![System-Design](https://img.shields.io/badge/SystemDesign-4%25-pink)
 
 # ASAP(Always Strive And Prosper) Skills
 [Painting](https://www.deviantart.com/jacques-charles), [Beatmaking&Music](https://soundcloud.com/kuro-io), [Poetry](https://jacquescharles.framer.website/), Writing, Boxing, Krav Maga, Calisthenics
