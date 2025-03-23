@@ -1,14 +1,7 @@
-<p align="center">
-  <img src=https://github.com/user-attachments/assets/533b2a4e-1814-4ba9-af66-5c1e46de5d11>
-</p>
 
 Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperactivity, Polymath, Aloof, Borderline, Extreme.
 
-
 [![GitHub Views](https://komarev.com/ghpvc/?username=Lemniscate-SHA-256)](https://github.com/Lemniscate-SHA-256/)
-
-![dan-cristian-padure-h3kuhYUCE9A-unsplash (1)](https://github.com/user-attachments/assets/1b7ffeea-39be-41f2-a700-9fc68db18e3f)
-
 
 ![Metrics](https://github.com/Lemniscate-SHA-256/Lemniscate-SHA-256/blob/main/github-metrics.svg)
 
