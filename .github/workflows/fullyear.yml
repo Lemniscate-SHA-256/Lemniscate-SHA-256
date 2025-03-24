@@ -26,7 +26,7 @@ jobs:
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
-     - name: Last chess game from lichess.org
+      - name: Last chess game from lichess.org
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.chess.svg
