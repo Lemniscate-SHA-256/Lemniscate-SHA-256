@@ -3,9 +3,9 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Lemniscate-world)](https://github.com/Lemniscate-world/)
 
-![Metrics](https://github.com/Lemniscate-SHA-256/Lemniscate-world/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Lemniscate-world/Lemniscate-world/blob/main/github-metrics.svg)
 
-![LeetCode](https://github.com/Lemniscate-SHA-256/Lemniscate-world/blob/main/metrics.plugin.leetcode.svg)
+![LeetCode](https://github.com/Lemniscate-world/Lemniscate-world/blob/main/metrics.plugin.leetcode.svg)
 
 # Projects [FOCUS]
 <p align="center">
