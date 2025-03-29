@@ -79,7 +79,7 @@ German[Read](Middle Low), French(High), English(High), Éwé(High), Russian(Very
 - (Python) Python Crash Course - Classic Computer Science Problems In Python
 - (Deep Learning) Math For Deep Learning
 - (Neural Networks) Neural Networks | A Visual Introduction for Beginners by Michael Taylor
-- (Deep Learning) (Dive into Deep Learning)[https://github.com/d2l-ai/d2l-en]
+- (Deep Learning) [Dive into Deep Learning](https://github.com/d2l-ai/d2l-en)
 
 # Achievements
 
