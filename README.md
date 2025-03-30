@@ -3,15 +3,10 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Lemniscate-world)](https://github.com/Lemniscate-world/)
 
-![Metrics](https://github.com/Lemniscate-world/Lemniscate-world/blob/main/github-metrics.svg)
-
-![LeetCode](https://github.com/Lemniscate-world/Lemniscate-world/blob/main/metrics.plugin.leetcode.svg)
-
 # Projects [FOCUS]
 <p align="center">
   <img src=https://github.com/user-attachments/assets/b32ce6f4-ecd7-4040-a538-a78a298882dc>
 </p>
-
 
 - **[Neural](https://github.com/Lemniscate-world/neural)** -> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and Researching. [In Fast Progress]   [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8)
 
@@ -41,22 +36,23 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 -- AGDA -- ASSEMBLY X64X86
 
 # Advanced & Precise Skills
-![Lark](https://img.shields.io/badge/Lark-45%25-blue)
-![Optimization](https://img.shields.io/badge/Optimization-35%25-red)
+![Lark](https://img.shields.io/badge/Lark-47%25-blue)
+![Optimization](https://img.shields.io/badge/Optimization-38%25-red)
 ![Neural-Networks](https://img.shields.io/badge/NeuralNetworks-75%25-blue)
-![Marketing](https://img.shields.io/badge/Marketing-9%25-pink)
+![Marketing](https://img.shields.io/badge/Marketing-12%25-pink)
 ![Lambda-Calculus](https://img.shields.io/badge/LambdaCalculus-4%25-violet)
-![Set-Theory](https://img.shields.io/badge/SetTheory-1%25-red)
-![Tensor-Calculus](https://img.shields.io/badge/TensorCalculus-2%25-red)
-![Optuna](https://img.shields.io/badge/Optuna-7%25-blue)
-![Category-Theory](https://img.shields.io/badge/CategoryTheory-1%25-red)
-![Statistics](https://img.shields.io/badge/Statistics-16%25-red)
-![Formal-Logic](https://img.shields.io/badge/FormalLogic-1%25-blue)
-![Genetic-Algorithms](https://img.shields.io/badge/GeneticAlgorithms-1%25-blue)
-![Data-Science](https://img.shields.io/badge/DataScience-3%25-blue)
-![Graph-Theory](https://img.shields.io/badge/GraphTheory-4%25-red)
-![Automata-Theory](https://img.shields.io/badge/AutomataTheory-1%25-blue)
-![System-Design](https://img.shields.io/badge/SystemDesign-4%25-pink)
+![Set-Theory](https://img.shields.io/badge/SetTheory-2%25-red)
+![Tensor-Calculus](https://img.shields.io/badge/TensorCalculus-5%25-red)
+![Optuna](https://img.shields.io/badge/Optuna-10%25-blue)
+![Category-Theory](https://img.shields.io/badge/CategoryTheory-2%25-red)
+![Statistics](https://img.shields.io/badge/Statistics-20%25-red)
+![Formal-Logic](https://img.shields.io/badge/FormalLogic-5%25-blue)
+![Genetic-Algorithms](https://img.shields.io/badge/GeneticAlgorithms-2%25-blue)
+![Data-Science](https://img.shields.io/badge/DataScience-15%25-blue)
+![Graph-Theory](https://img.shields.io/badge/GraphTheory-6%25-red)
+![Automata-Theory](https://img.shields.io/badge/AutomataTheory-2%25-red)
+![System-Design](https://img.shields.io/badge/SystemDesign-10%25-pink)
+![Pytest](https://img.shields.io/badge/Pytest-10%25-blue)
 
 # ASAP(Always Strive And Prosper) Skills
 [Painting](https://www.deviantart.com/jacques-charles), [Beatmaking&Music](https://soundcloud.com/kuro-io), [Poetry](https://jacquescharles.framer.website/), Writing, Boxing, Krav Maga, Calisthenics
@@ -70,7 +66,7 @@ German[Read](Middle Low), French(High), English(High), Éwé(High), Russian(Very
 - **[Robust λ](https://github.com/Lemniscate-world/Robust-Lambda)** - Building a functional untyped lambda calculus interpreter with a visual reduction tracer.
 - **[Formal Trace](https://github.com/Lemniscate-world/Formal-Trace)** - Decompilation into formal logic, real-time combinatorial visualization, and mathematical program route modeling
 - **[Dissect](https://github.com/Lemniscate-world/Dissect)** - Automatically detect, analyze, and visualize algorithms in codebases
-- **BloomDB** - A probabilistic database language, that would likely handle uncertain or probabilistic data, making it suitable for applications like machine learning, data, integration, sensor data analysis, and more.
+- **BloomDB** - A probabilistic database language that would likely handle uncertain or probabilistic data, making it suitable for applications like machine learning, data integration, sensor data analysis, and more.
 
 # Books (Starred) 
 [Let's read on TheStoryGraph](https://app.thestorygraph.com/profile/gadkuro)
@@ -84,6 +80,10 @@ German[Read](Middle Low), French(High), English(High), Éwé(High), Russian(Very
 # Achievements
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D31645%26project%3D%26in=0)](https://codetime.dev)
+
+![LeetCode](https://github.com/Lemniscate-world/Lemniscate-world/blob/main/metrics.plugin.leetcode.svg)
+
+![Metrics](https://github.com/Lemniscate-world/Lemniscate-world/blob/main/github-metrics.svg)
 
 # Just A Poor Lonesome Cowboy...
 
