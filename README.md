@@ -57,6 +57,10 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 # ASAP(Always Strive And Prosper) Skills
 [Painting](https://www.deviantart.com/jacques-charles), [Beatmaking&Music](https://soundcloud.com/kuro-io), [Poetry](https://jacquescharles.framer.website/), Writing, Boxing, Krav Maga, Calisthenics
 
+# Blogs
+[Neural](https://medium.com/@neural.lang0)
+n_polymath
+
 # Human Languages
 German[Read](Middle Low), French(High), English(High), Éwé(High), Russian(Very Low), Korean[Hangeul](Low to Middle Low)
 
