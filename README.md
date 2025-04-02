@@ -85,6 +85,7 @@ German[Read](Middle Low), French(High), English(High), Éwé(High), Russian(Very
 - (Deep Learning) Math For Deep Learning
 - (Neural Networks) Neural Networks | A Visual Introduction for Beginners by Michael Taylor
 - (Deep Learning) [Dive into Deep Learning](https://github.com/d2l-ai/d2l-en)
+- Transfer Learning for Natural Language Processing (Paul Azunre) 
 
 # Achievements
 
