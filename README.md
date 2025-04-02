@@ -56,6 +56,8 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 ![System-Design](https://img.shields.io/badge/SystemDesign-10%25-pink)
 ![Pytest](https://img.shields.io/badge/Pytest-10%25-blue)
 
+# Research & Papers
+
 # ASAP(Always Strive And Prosper) Skills
 [Painting](https://www.deviantart.com/jacques-charles), [Beatmaking&Music](https://soundcloud.com/kuro-io), [Poetry](https://jacquescharles.framer.website/), Writing, Boxing, Krav Maga, Calisthenics
 
