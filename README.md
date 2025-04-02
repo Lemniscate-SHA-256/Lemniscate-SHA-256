@@ -16,7 +16,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 
 # Skills & Computer Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,ts,replit,react,qt,pnpm,npm,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,md,debian,devto,docker,githubactions,linkedin,obsidian,pytorch,js,haskell,electron,nextjs,c&perline=30)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,ts,replit,react,qt,pnpm,npm,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,md,debian,devto,docker,githubactions,linkedin,obsidian,pytorch,js,haskell,electron,nextjs,c,dart,flutter&perline=30)](https://skillicons.dev)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
