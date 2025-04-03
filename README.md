@@ -19,7 +19,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 # Curiosities
 
 <p align="center">
-  <img src=![Gm-1c4_WsAAtaws](https://github.com/user-attachments/assets/27dbe8e4-974e-4095-93ca-486b0dfd207a)>
+  <img src=https://github.com/user-attachments/assets/27dbe8e4-974e-4095-93ca-486b0dfd207a>
 </p>
 
 - **[Project Dirac](https://github.com/Lemniscate-world/Project-Dirac)** (Gamma Functions, Lambda-Calculus, Probability) --> Dedicated to exploring and understanding fascinating mathematical concepts that go beyond the basics. Whether you're a math enthusiast or someone looking to deepen your knowledge in intriguing areas of mathematics, this repository aims to provide resources and insights into the most captivating topics in the field.
