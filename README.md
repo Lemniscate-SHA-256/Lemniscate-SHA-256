@@ -8,11 +8,18 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
   <img src=https://github.com/user-attachments/assets/b32ce6f4-ecd7-4040-a538-a78a298882dc>
 </p>
 
-- **[Neural](https://github.com/Lemniscate-world/neural)** (Neural Networks, Parsers) -> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and researching. [In Fast Progress]   [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8)
+- **[Neural](https://github.com/Lemniscate-world/neural)** (Neural Networks, Parsers) -> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and researching. [In Fast Progress]
+- [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8)
 
-- **[Fo nu](https://github.com/Lemniscate-world/fo-nu)** (Co-Authored) (NLP) -> [Medium Progress] [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/d3afa818-b4d8-4535-84b8-1848a8850256.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/d3afa818-b4d8-4535-84b8-1848a8850256) 
+- **[Fo nu](https://github.com/Lemniscate-world/fo-nu)** (Co-Authored) (NLP) -> [Medium Progress]
+- [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/d3afa818-b4d8-4535-84b8-1848a8850256.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/d3afa818-b4d8-4535-84b8-1848a8850256) 
 
 - **[Metatron](https://github.com/Lemniscate-world/Metatron)** -> is an advanced, AI-powered debugging tool designed to analyze and debug code across various programming languages, including Python, JavaScript, Java, C++, AI frameworks (TensorFlow, PyTorch), and blockchain (Solidity). This project aims to build an abductive reasoning debugger using Rust. Unlike traditional debuggers that rely on pattern matching, this system infers probable causes of bugs by logically analyzing the structure of errors. [Low to No Progress]
+
+# Curiosities
+
+- **[Project Dirac](https://github.com/Lemniscate-world/Project-Dirac)** Dedicated to exploring and understanding fascinating mathematical concepts that go beyond the basics. Whether you're a math enthusiast or someone looking to deepen your knowledge in intriguing areas of mathematics, this repository aims to provide resources and insights into the most captivating topics in the field.
+- [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/59d86795-5c1e-44d4-ba47-fc8a00b90e1c.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/59d86795-5c1e-44d4-ba47-fc8a00b90e1c)
 
 # Skills & Computer Languages
 
