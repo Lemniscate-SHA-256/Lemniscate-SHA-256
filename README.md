@@ -18,7 +18,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 
 # Curiosities
 
-- **[Project Dirac](https://github.com/Lemniscate-world/Project-Dirac)** Dedicated to exploring and understanding fascinating mathematical concepts that go beyond the basics. Whether you're a math enthusiast or someone looking to deepen your knowledge in intriguing areas of mathematics, this repository aims to provide resources and insights into the most captivating topics in the field.
+- **[Project Dirac](https://github.com/Lemniscate-world/Project-Dirac)** (Gamma Functions, Lambda-Calculus, Probability) Dedicated to exploring and understanding fascinating mathematical concepts that go beyond the basics. Whether you're a math enthusiast or someone looking to deepen your knowledge in intriguing areas of mathematics, this repository aims to provide resources and insights into the most captivating topics in the field.
 - [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/59d86795-5c1e-44d4-ba47-fc8a00b90e1c.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/59d86795-5c1e-44d4-ba47-fc8a00b90e1c)
 
 # Skills & Computer Languages
@@ -60,6 +60,7 @@ Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperac
 ![Data-Science](https://img.shields.io/badge/DataScience-15%25-blue)
 ![Graph-Theory](https://img.shields.io/badge/GraphTheory-6%25-red)
 ![Automata-Theory](https://img.shields.io/badge/AutomataTheory-2%25-red)
+![Probability](https://img.shields.io/badge/Probability-30%25-red)
 ![System-Design](https://img.shields.io/badge/SystemDesign-10%25-pink)
 ![Pytest](https://img.shields.io/badge/Pytest-10%25-blue)
 
