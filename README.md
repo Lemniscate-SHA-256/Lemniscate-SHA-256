@@ -26,6 +26,10 @@ Anti-social Coder Code
 - **[Project Dirac](https://github.com/Lemniscate-world/Project-Dirac)** (Gamma Functions, Lambda-Calculus, Probability) --> Dedicated to exploring and understanding fascinating mathematical concepts that go beyond the basics. Whether you're a math enthusiast or someone looking to deepen your knowledge in intriguing areas of mathematics, this repository aims to provide resources and insights into the most captivating topics in the field.
 - [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/59d86795-5c1e-44d4-ba47-fc8a00b90e1c.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/59d86795-5c1e-44d4-ba47-fc8a00b90e1c)
 
+# Tiny Fun Projects
+
+- **DEBUGREG** (Regex) --> Lightweight Regex Debugger
+
 # Skills & Computer Languages
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,ts,replit,react,qt,pnpm,npm,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,md,debian,devto,docker,githubactions,linkedin,obsidian,pytorch,js,haskell,electron,nextjs,c,dart,flutter,vite&perline=30)](https://skillicons.dev)
