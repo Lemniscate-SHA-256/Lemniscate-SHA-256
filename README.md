@@ -28,7 +28,7 @@ Anti-social Coder Code
 
 # Tiny Fun Projects
 
-- **DEBUGREG** (Regex) --> Lightweight Regex Debugger
+- **[DEBUGREG](https://github.com/Lemniscate-world/DebugReg)** (Regex) --> Lightweight Regex Debugger
 
 # Skills & Computer Languages
 
