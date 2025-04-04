@@ -1,5 +1,6 @@
 
 Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperactivity, Polymath, Aloof, Borderline, Extreme.
+Anti-social Coder Code
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Lemniscate-world)](https://github.com/Lemniscate-world/)
 
@@ -73,7 +74,7 @@ https://huggingface.co/Kuroio
 https://huggingface.co/LambdasecR
 
 # ASAP(Always Strive And Prosper) Skills
-[Painting](https://www.deviantart.com/jacques-charles), [Beatmaking&Music](https://soundcloud.com/kuro-io), [Poetry](https://jacquescharles.framer.website/), Writing, Boxing, Krav Maga, Calisthenics, Chess, Photography, Fashion Design.
+[Painting](https://www.deviantart.com/jacques-charles), [Beatmaking&Music](https://soundcloud.com/kuro-io), [Poetry](https://jacquescharles.framer.website/), Writing, Boxing, Krav Maga, Calisthenics, Chess, Photography, [Fashion Design](https://hermetic.company.site/)
 
 # Blogs
 [Neural](https://medium.com/@neural.lang0),
