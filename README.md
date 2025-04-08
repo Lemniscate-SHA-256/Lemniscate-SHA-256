@@ -74,6 +74,7 @@ Anti-social Coder Code
 ![Probability](https://img.shields.io/badge/Probability-30%25-red)
 ![System-Design](https://img.shields.io/badge/SystemDesign-10%25-pink)
 ![Pytest](https://img.shields.io/badge/Pytest-10%25-blue)
+![Quants](https://img.shields.io/badge/Quants-1%25-blue)
 
 # Research & Papers
 https://huggingface.co/Kuroio
