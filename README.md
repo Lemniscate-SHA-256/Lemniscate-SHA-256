@@ -73,8 +73,9 @@ Anti-social Coder Code
 ![Quants](https://img.shields.io/badge/Quants-1%25-blue)
 
 # Research & Papers
-https://huggingface.co/Kuroio
-https://huggingface.co/LambdasecR
+- https://huggingface.co/Kuroio
+- [Notebooks On Kaggle](https://www.kaggle.com/kuroio)
+- https://huggingface.co/LambdasecR
 
 # ASAP(Always Strive And Prosper) Skills
 [Painting](https://www.deviantart.com/jacques-charles), [Beatmaking&Music](https://soundcloud.com/kuro-io), [Poetry](https://jacquescharles.framer.website/), Writing, Boxing, Krav Maga, Calisthenics, Chess, Photography, [Fashion Design](https://hermetic.company.site/)
