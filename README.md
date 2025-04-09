@@ -30,7 +30,7 @@ Anti-social Coder Code
 
 # Tiny Fun Projects
 
-- **[DEBUGREG](https://github.com/Lemniscate-world/DebugReg)** (Regex) --> Lightweight Regex Debugger
+- **[Debugex](https://github.com/Lemniscate-world/DebugReg)** (Regex) --> Lightweight Regex Debugger
 
 # Skills & Computer Languages
 
