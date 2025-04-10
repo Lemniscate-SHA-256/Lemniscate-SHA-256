@@ -31,6 +31,11 @@ Anti-social Coder Code
 # Skills & Computer Languages
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,ts,replit,react,qt,pnpm,npm,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,md,debian,devto,docker,githubactions,linkedin,obsidian,pytorch,js,haskell,electron,nextjs,c,dart,flutter,vite,r,autocad,fastapi,kali,neextjs,nginx,scala,supabase,tailwind,vercel&perline=30)](https://skillicons.dev)
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
