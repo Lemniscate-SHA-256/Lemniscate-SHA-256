@@ -69,7 +69,7 @@ Anti-social Coder Code
 ![Statistics](https://img.shields.io/badge/Statistics-20%25-red)
 ![Formal-Logic](https://img.shields.io/badge/FormalLogic-5%25-blue)
 ![Genetic-Algorithms](https://img.shields.io/badge/GeneticAlgorithms-2%25-blue)
-![Data-Science](https://img.shields.io/badge/DataScience-15%25-blue)
+![Data-Science](https://img.shields.io/badge/DataScience-17%25-blue)
 ![Graph-Theory](https://img.shields.io/badge/GraphTheory-6%25-red)
 ![Automata-Theory](https://img.shields.io/badge/AutomataTheory-2%25-red)
 ![Probability](https://img.shields.io/badge/Probability-30%25-red)
