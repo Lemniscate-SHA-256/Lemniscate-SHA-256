@@ -30,7 +30,7 @@ Anti-social Coder Code
 
 # Skills & Computer Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,ts,replit,react,qt,pnpm,npm,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,md,debian,devto,docker,githubactions,linkedin,obsidian,pytorch,js,haskell,electron,nextjs,c,dart,flutter,vite,r&perline=30)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,ts,replit,react,qt,pnpm,npm,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,md,debian,devto,docker,githubactions,linkedin,obsidian,pytorch,js,haskell,electron,nextjs,c,dart,flutter,vite,r,autocad,fastapi,kali,neextjs,nginx,scala,supabase,tailwind,vercel&perline=30)](https://skillicons.dev)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
@@ -88,7 +88,7 @@ n_polymath
 German[Read](Middle Low), French(High), English(High), Éwé(High), Russian(Very Low), Korean[Hangeul](Low to Middle Low)
 
 # Next
-- **[NeuroDose](https://github.com/Lemniscate-world/NeuroDose)** - Help biohackers fine-tune stimulants used to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
+- **[NeuroDose](https://github.com/Lemniscate-world/NeuroDose)** - Help biohackers fine-tune stimulants to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
 - **[HPCS.jl](https://github.com/Lemniscate-world/HPCS.jl)** - Building a High-Performance-Computer Simulator in Julia
 - **[Robust λ](https://github.com/Lemniscate-world/Robust-Lambda)** - Building a functional untyped lambda calculus interpreter with a visual reduction tracer.
 - **[Formal Trace](https://github.com/Lemniscate-world/Formal-Trace)** - Decompilation into formal logic, real-time combinatorial visualization, and mathematical program route modeling
